@@ -1,0 +1,7 @@
+C:\Users\Moi\source\repos\Jour 02\Exercice06\obj\Debug\Exercice06.csproj.CoreCompileInputs.cache
+C:\Users\Moi\source\repos\Jour 02\Exercice06\bin\Debug\Exercice06.exe.config
+C:\Users\Moi\source\repos\Jour 02\Exercice06\bin\Debug\Exercice06.exe
+C:\Users\Moi\source\repos\Jour 02\Exercice06\bin\Debug\Exercice06.pdb
+C:\Users\Moi\source\repos\Jour 02\Exercice06\obj\Debug\Exercice06.exe
+C:\Users\Moi\source\repos\Jour 02\Exercice06\obj\Debug\Exercice06.pdb
+C:\Users\Moi\source\repos\Jour 02\Exercice06\obj\Debug\Exercice06.csprojAssemblyReference.cache
